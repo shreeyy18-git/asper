@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasetsss</folder>
+	<filename>person_00007.jpg</filename>
+	<path>D:\ML,DL,OPENCV ENVN\faster rcnn object detection\dataset\datasetsss\person_00007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>62</ymin>
+			<xmax>593</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

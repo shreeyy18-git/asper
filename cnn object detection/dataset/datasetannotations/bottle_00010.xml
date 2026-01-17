@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasetsss</folder>
+	<filename>bottle_00010.jpg</filename>
+	<path>D:\ML,DL,OPENCV ENVN\faster rcnn object detection\dataset\datasetsss\bottle_00010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>122</ymin>
+			<xmax>422</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>
